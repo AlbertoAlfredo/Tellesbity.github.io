@@ -11,7 +11,7 @@ html, body{
     padding-top: 5px !important;
     padding-left: 0px;
     padding-right: 0px;
-    color: gold !important;
+    color: white !important;
 }
 .btn-nav-custom:focus{
     outline: none;
